@@ -1,6 +1,6 @@
 Building a Corpus(Python)
 ===================================================
-    CS132a spring 2017 Assignment 2: Building a Corpus
+    CS132a 2017Spring A2: Building a Corpus
     
     Author: Hao Wang
     Date: 2/1/2017
