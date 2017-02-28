@@ -2,6 +2,7 @@ CS132a spring 2017 Assignment 2: Building a Corpus
 ===================================================
 ### Author: Hao Wang
     Date: 2/1/2017
+    Instruction: instruction.pdf
 
 ### Description: The program extracts pages from Wikipedia, identify fielded data,  clean unstructured data, and store the results in json format
 
