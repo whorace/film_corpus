@@ -2,7 +2,7 @@ Building a Corpus(Python)
 ===================================================
     CS132a 2017Spring A2: Building a Corpus
     
-    Author: Hao Wang <haowang@brandeis.edu>
+    Author: Hao Wang (haowang@brandeis.edu)
     Date: 2/1/2017
 
     Description: The program extracts pages from Wikipedia, identify fielded data,  
